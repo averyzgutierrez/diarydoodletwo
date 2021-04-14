@@ -1,0 +1,24 @@
+html {
+   margin: 0;
+  padding: 0;
+ background-image: rgb(246, 242, 252);
+    
+}
+
+body {
+  text-align: center;
+   font-style:"courier", monospace;
+   background-image: url("paper.jpg");
+}
+
+
+canvas {
+ margin: auto;
+  top: 0;
+  left: 0;
+  position: absolute
+  z-index -1;
+  
+
+ 
+}
